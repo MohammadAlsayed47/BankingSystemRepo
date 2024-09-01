@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1-Repos\\CA Repo\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|c:\\1-repos\\ca repo\\bankingsystem\\holderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|solutionrelative:holderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|c:\\1-repos\\ca repo\\bankingsystem\\iform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|solutionrelative:iform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|c:\\1-repos\\ca repo\\bankingsystem\\entites\\holderaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|solutionrelative:entites\\holderaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|c:\\1-repos\\ca repo\\bankingsystem\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|solutionrelative:employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|C:\\1-Repos\\CA Repo\\BankingSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|C:\\1-Repos\\CA Repo\\BankingSystem\\entites\\accountprocesseshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5698A6F-2C80-4D55-AE72-DED29B87AE2F}|BankingSystem.csproj|solutionrelative:entites\\accountprocesseshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\1-Repos\\CA Repo\\BankingSystem\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeForm.cs",
+              "ToolTip": "C:\\1-Repos\\CA Repo\\BankingSystem\\EmployeeForm.cs",
+              "RelativeToolTip": "EmployeeForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:13:34.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IForm.cs",
+              "DocumentMoniker": "C:\\1-Repos\\CA Repo\\BankingSystem\\IForm.cs",
+              "RelativeDocumentMoniker": "IForm.cs",
+              "ToolTip": "C:\\1-Repos\\CA Repo\\BankingSystem\\IForm.cs",
+              "RelativeToolTip": "IForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:13:22.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HolderForm.cs",
+              "DocumentMoniker": "C:\\1-Repos\\CA Repo\\BankingSystem\\HolderForm.cs",
+              "RelativeDocumentMoniker": "HolderForm.cs",
+              "ToolTip": "C:\\1-Repos\\CA Repo\\BankingSystem\\HolderForm.cs",
+              "RelativeToolTip": "HolderForm.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:12:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountProcessesHelper.cs",
+              "DocumentMoniker": "C:\\1-Repos\\CA Repo\\BankingSystem\\Entites\\AccountProcessesHelper.cs",
+              "RelativeDocumentMoniker": "Entites\\AccountProcessesHelper.cs",
+              "ToolTip": "C:\\1-Repos\\CA Repo\\BankingSystem\\Entites\\AccountProcessesHelper.cs",
+              "RelativeToolTip": "Entites\\AccountProcessesHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:12:25.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HolderAccount.cs",
+              "DocumentMoniker": "C:\\1-Repos\\CA Repo\\BankingSystem\\Entites\\HolderAccount.cs",
+              "RelativeDocumentMoniker": "Entites\\HolderAccount.cs",
+              "ToolTip": "C:\\1-Repos\\CA Repo\\BankingSystem\\Entites\\HolderAccount.cs",
+              "RelativeToolTip": "Entites\\HolderAccount.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:26:13.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\1-Repos\\CA Repo\\BankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\1-Repos\\CA Repo\\BankingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAowKIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:37:37.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
